@@ -6,7 +6,7 @@
 
 .bgimage {
     height:100vh;
-    background: url('profile software.jpg');
+    background: url('Assets/profile software.jpg');
     background-size:cover;
     position:relative;
 }
